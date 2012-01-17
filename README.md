@@ -1,5 +1,7 @@
 ## sbt-xjc An SBT 0.11 Plugin to compile XML Schemata to JAXB Java sources with XJC
 
+*Mirror, official repository is now https://github.com/sbt/sbt-xjc*
+
 ### Usage
 
 Depend on the plugin: `./project/plugins/build.sbt`. Requires SBT 0.11.2 or higher.
